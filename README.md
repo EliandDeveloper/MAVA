@@ -6,9 +6,9 @@ MAVA es una plataforma digital de ecoturismo que facilita a los turistas la bús
 
 ### Características clave:
 
-Búsqueda y comparación de servicios turísticos (hospedaje, transporte, etc.).
-Perfiles de empresas turísticas con información detallada.
-Sistema de comentarios y evaluaciones.
-Filtros avanzados para refinar la búsqueda por tipo de servicio, ubicación, precio y disponibilidad.
-Interfaz intuitiva y diseño responsive para dispositivos móviles y de escritorio.
-Integración con pasarelas de pago seguras (Stripe, PayPal).
+- Búsqueda y comparación de servicios turísticos (hospedaje, transporte, etc.).
+- Perfiles de empresas turísticas con información detallada.
+- Sistema de comentarios y evaluaciones.
+- Filtros avanzados para refinar la búsqueda por tipo de servicio, ubicación, precio y disponibilidad.
+- Interfaz intuitiva y diseño responsive para dispositivos móviles y de escritorio.
+- Integración con pasarelas de pago seguras (Stripe, PayPal).
