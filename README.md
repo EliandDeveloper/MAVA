@@ -1,7 +1,7 @@
-# 🌿 MAVA - Plataforma de Ecoturismo
+# 🌿 PATHI - Plataforma de Ecoturismo
 
 ### 🏞️ **Descripción**
-MAVA es tu compañero ideal para explorar y planificar aventuras en destinos naturales. Somos una plataforma digital que centraliza toda la información que necesitas para disfrutar de la naturaleza, desde hospedajes únicos hasta transporte y servicios turísticos. ¡Todo en un solo lugar, para que tu planificación sea fácil, rápida y divertida!
+PATHI es tu compañero ideal para explorar y planificar aventuras en destinos naturales. Somos una plataforma digital que centraliza toda la información que necesitas para disfrutar de la naturaleza, desde hospedajes únicos hasta transporte y servicios turísticos. ¡Todo en un solo lugar, para que tu planificación sea fácil, rápida y divertida!
 
 ---
 
@@ -28,9 +28,9 @@ MAVA es tu compañero ideal para explorar y planificar aventuras en destinos nat
 ---
 
 ## 🌍 **Tu experiencia de ecoturismo empieza aquí**
-Con MAVA, planificar tu próximo viaje es tan sencillo como seleccionar el destino de tus sueños y dejar que nosotros te conectemos con las mejores opciones. Ya sea que estés buscando una cabaña en la montaña, un transporte eco-friendly, o un guía turístico local, lo encontrarás todo aquí.
+Con PATHI, planificar tu próximo viaje es tan sencillo como seleccionar el destino de tus sueños y dejar que nosotros te conectemos con las mejores opciones. Ya sea que estés buscando una cabaña en la montaña, un transporte eco-friendly, o un guía turístico local, lo encontrarás todo aquí.
 
 ---
 
-### 🚀 ¡Empieza a explorar ahora con MAVA y transforma tu próxima aventura en la naturaleza en una experiencia inolvidable!
+### 🚀 ¡Empieza a explorar ahora con PATHI y transforma tu próxima aventura en la naturaleza en una experiencia inolvidable!
 
